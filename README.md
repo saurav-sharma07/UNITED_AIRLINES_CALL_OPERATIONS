@@ -52,7 +52,7 @@ This project analyzes key call center metrics such as Average Handle Time (AHT) 
    pip install pandas matplotlib seaborn scikit-learn statsmodels
    ```
    
-3. Ensure that the data files are in the project directory.(NOTE: calls.csv file is not uploaded to the repository due to file size. Therefore make sure to add call.csv file before running the code.)
+3. Ensure that the data files are in the project directory. (NOTE: calls.csv file is not uploaded to the repository due to file size. Therefore make sure to add call.csv file before running the code.)
 
 4. Run the script:
    ```bash
