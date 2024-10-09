@@ -44,7 +44,7 @@ This project analyzes key call center metrics such as Average Handle Time (AHT) 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/call-center-aht-analysis.git
+   git clone https://github.com/saurav-sharma07/United_airlines_call_operations.git
    ```
    
 2. Install the required libraries:
@@ -52,11 +52,11 @@ This project analyzes key call center metrics such as Average Handle Time (AHT) 
    pip install pandas matplotlib seaborn scikit-learn statsmodels
    ```
    
-3. Ensure that the data files are in the project directory.
+3. Ensure that the data files are in the project directory.(NOTE: calls.csv file is not uploaded to the repository due to file size. Therefore make sure to add call.csv file before running the code.)
 
 4. Run the script:
    ```bash
-   python call_analysis.py
+   python script.py
    ```
 
 5. View the predictions in the `test_saurav_vikrant.csv` file generated.
